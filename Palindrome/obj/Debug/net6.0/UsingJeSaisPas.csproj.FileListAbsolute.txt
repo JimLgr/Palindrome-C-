@@ -1,0 +1,15 @@
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\bin\Debug\net6.0\UsingJeSaisPas.exe
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\bin\Debug\net6.0\UsingJeSaisPas.deps.json
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\bin\Debug\net6.0\UsingJeSaisPas.runtimeconfig.json
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\bin\Debug\net6.0\UsingJeSaisPas.dll
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\bin\Debug\net6.0\ref\UsingJeSaisPas.dll
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\bin\Debug\net6.0\UsingJeSaisPas.pdb
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\obj\Debug\net6.0\UsingJeSaisPas.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\obj\Debug\net6.0\UsingJeSaisPas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\obj\Debug\net6.0\UsingJeSaisPas.AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\obj\Debug\net6.0\UsingJeSaisPas.AssemblyInfo.cs
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\obj\Debug\net6.0\UsingJeSaisPas.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\obj\Debug\net6.0\UsingJeSaisPas.dll
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\obj\Debug\net6.0\ref\UsingJeSaisPas.dll
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\obj\Debug\net6.0\UsingJeSaisPas.pdb
+C:\Users\pc\source\repos\UsingJeSaisPas\UsingJeSaisPas\obj\Debug\net6.0\UsingJeSaisPas.genruntimeconfig.cache
